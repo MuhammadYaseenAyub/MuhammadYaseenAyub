@@ -2,7 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadYaseenAyub&theme=dark)](https://github.com/MuhammadYaseenAyub)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MuhammadYaseenAyub&repo=hello-strangers)](https://github.com/MuhammadYaseenAyub/hello-strangers)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MuhammadYaseenAyub&repo=hello-strangers&theme=dark)](https://github.com/MuhammadYaseenAyub/hello-strangers)
 
 <!--
 **MuhammadYaseenAyub/MuhammadYaseenAyub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
