@@ -13,16 +13,7 @@
       <a href="https://twitter.com/M_Yaseen_Ayub">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-    
-    
-   <a href="https://twitter.com/M_Yaseen_Ayub">
-    <img src="https://img.shields.io/badge/ResearchGate-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://twitter.com/M_Yaseen_Ayub">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-    
-    
+        
   <a href="https://www.youtube.com/channel/UCphwXkFSsKozlG-Y0uYBvTg">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
@@ -34,9 +25,7 @@
 ### My Research Gate Profile is : https://www.researchgate.net/profile/Muhammad-Yaseen-Ayub
 ### My Linkedin Profile is : https://www.linkedin.com/in/m-yaseen-ayub/
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MuhammadYaseenAyub&repo=hello-strangers&theme=dark)
-
-(https://github.com/MuhammadYaseenAyub/Technocolabs-Softwares-Mini-Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MuhammadYaseenAyub&repo=Technocolabs-Softwares-Mini-Project&theme=dark)
 
 
 
