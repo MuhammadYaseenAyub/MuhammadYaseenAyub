@@ -1,14 +1,16 @@
 ### Hi there 👋
 # I am Muhammad Yaseen Ayub
 ## Final Semester Computer Science Student at COMSATS University Islamabad (Attock Campus)
+## Currently working as Data Analyst Intern at Technocolab Software Inc.
 ## Interested in Machine Learning and Data Science.
+
 
 ### My Research Gate Profile is : https://www.researchgate.net/profile/Muhammad-Yaseen-Ayub
 ### My Linkedin Profile is : https://www.linkedin.com/in/m-yaseen-ayub/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadYaseenAyub&theme=dark)](https://github.com/MuhammadYaseenAyub)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MuhammadYaseenAyub&repo=hello-strangers&theme=dark)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MuhammadYaseenAyub&repo=hello-strangers&theme=dark)
 
 (https://github.com/MuhammadYaseenAyub/Technocolabs-Softwares-Mini-Project)
 (https://github.com/MuhammadYaseenAyub/hello-strangers)
