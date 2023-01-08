@@ -25,7 +25,7 @@
 ### My Research Gate Profile is : https://www.researchgate.net/profile/Muhammad-Yaseen-Ayub
 ### My Linkedin Profile is : https://www.linkedin.com/in/m-yaseen-ayub/
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MuhammadYaseenAyub&repo=Technocolabs-Softwares-Mini-Project&theme=dark)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MuhammadYaseenAyub&repo=Technocolabs-Softwares-Mini-Project&theme=dark)
 
 
 
