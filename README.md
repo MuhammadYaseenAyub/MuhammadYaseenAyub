@@ -4,16 +4,30 @@
 ## Currently working as Data Analyst Intern at Technocolab Software Inc.
 ## Interested in Machine Learning and Data Science.
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/m-yaseen-ayub/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCphwXkFSsKozlG-Y0uYBvTg">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/M_Yaseen_Ayub">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 ### My Research Gate Profile is : https://www.researchgate.net/profile/Muhammad-Yaseen-Ayub
 ### My Linkedin Profile is : https://www.linkedin.com/in/m-yaseen-ayub/
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadYaseenAyub&theme=dark)](https://github.com/MuhammadYaseenAyub)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MuhammadYaseenAyub&repo=hello-strangers&theme=dark)
 
 (https://github.com/MuhammadYaseenAyub/Technocolabs-Softwares-Mini-Project)
-(https://github.com/MuhammadYaseenAyub/hello-strangers)
+
+
+
 
 <!--
 **MuhammadYaseenAyub/MuhammadYaseenAyub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
