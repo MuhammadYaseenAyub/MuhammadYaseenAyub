@@ -1,10 +1,8 @@
 ### Hi there 👋
 # I am Muhammad Yaseen Ayub
-## Final Semester Computer Science Student at COMSATS University Islamabad (Attock Campus)
-## Currently working as Data Analyst Intern at Technocolab Software Inc.
+## Done BS (CS) from COMSATS University Islamabad.
 ## Interested in Machine Learning and Data Science.
 
-### My CV / Portfolio : https://yaseenayub.netlify.app/
   <div id="badges">
   <a href="https://www.linkedin.com/in/m-yaseen-ayub/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -19,7 +17,7 @@
 
 </div>
 </div>
-
+### My CV / Portfolio : https://yaseenayub.netlify.app/
 
 ### My Research Gate Profile is : https://www.researchgate.net/profile/Muhammad-Yaseen-Ayub
 ### My Linkedin Profile is : https://www.linkedin.com/in/m-yaseen-ayub/
